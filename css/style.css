@@ -5,10 +5,9 @@ body{
     color: #f0c9b1;
 
 }
-section article h1{
-    margin: 0 0 10px 0;
-    font-size: 150%;
-    color: #ffb400;
-    text-shadow: 1px 1px 1px  #02ffff ;
-    font-family: "Trebuchet MS";
-}   
+h1{
+    
+    background: rgb(0, 183, 255);
+    text-align: center;
+
+}
