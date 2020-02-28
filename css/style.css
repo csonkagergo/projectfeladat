@@ -17,6 +17,6 @@ header p{
     text-shadow: 1px 1px 1px black;
 
 }
-header{
-    background-color: blue;
+header.a{
+    color: blue;
 }
