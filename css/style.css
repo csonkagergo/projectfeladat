@@ -20,6 +20,18 @@ header p{
 nav{
     padding: 10px 0;
     margin: 20px 0;
-    color: rgb(66, 60, 60);
-    
+    color: rgb(44, 40, 40);
+    box-shadow:0px 0px 5px  #01d7fda1;
+}
+footer{
+    width: 760px;
+    margin: 20px auto;
+    padding: 20px;
+    background: rgb(0, 183, 255);
+    text-align: center;
+
+}
+footer a {
+    margin: 0 15px;
+
 }
