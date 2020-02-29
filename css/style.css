@@ -17,9 +17,7 @@ header p{
     text-shadow: 1px 1px 1px black;
 
 }
-header div{
-    background: url('../images/hatter1.jpg') #0026ff ;
-}
+
 nav{
     padding: 10px 0;
     margin: 20px 0;
@@ -33,4 +31,8 @@ footer{
     background: rgb(0, 0, 0);
     text-align: center;
 
+}
+p{
+    color: cornflowerblue;
+    text-shadow: 1px 1px 1px black;
 }
