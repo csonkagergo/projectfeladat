@@ -7,8 +7,10 @@ body{
 }
 header {
     
+
 }
 header h1{
+    background-image: url("../images/header2.png") #0026ff;
     color: rgb(0, 119, 255);
     text-shadow: 2px 2px 2px black;
     text-align: center;
