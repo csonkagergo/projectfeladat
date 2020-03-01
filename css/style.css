@@ -6,7 +6,8 @@ body{
 }
 header div{
     background: url('../images/header2.png');
-    image-resolution: 50%;
+    width: 900px;
+    height: 400px;
     color: rgb(0, 119, 255);
     text-shadow: 2px 2px 2px black;
     text-align: center;
