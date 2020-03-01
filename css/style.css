@@ -4,17 +4,12 @@ body{
     font-size: 100%;
     color: #f0c9b1;
 }
-header h1{
+header{
     background-image: url("../images/header2.png") #0026ff;
     color: rgb(0, 119, 255);
     text-shadow: 2px 2px 2px black;
     text-align: center;
     
-
-}
-header p{
-    color: rgb(0, 119, 255);
-    text-shadow: 1px 1px 1px black;
 
 }
 
