@@ -8,6 +8,7 @@ body{
 header{
     background-image: url('..images/header2.png') #0026ff;
     text-align: center;
+    font-size: 100%;
 }
 header h1{
     color: rgb(0, 119, 255);
