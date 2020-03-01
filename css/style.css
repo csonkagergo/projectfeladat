@@ -5,6 +5,12 @@ body{
     color: #f0c9b1;
 
 }
+header{
+    margin: 5px auto;
+    padding: 5px;
+    background: rgb(0, 0, 0);
+    text-align: center;
+}
 header h1{
     color: rgb(0, 119, 255);
     text-shadow: 2px 2px 2px black;
