@@ -5,7 +5,7 @@ body{
     color: #f0c9b1;
 }
 header div{
-    range: url("../images/header2.png") #0026ff;
+    background: url('../images/header2.png');
     color: rgb(0, 119, 255);
     text-shadow: 2px 2px 2px black;
     text-align: center;
