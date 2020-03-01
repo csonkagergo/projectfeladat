@@ -10,7 +10,7 @@ header img{
     padding: 5px;
     background: rgb(0, 89, 255);
     text-align: center;
-    image-resolution: 50%;
+    image-resolution: 800px 400px;
 }
 header h1{
     color: rgb(0, 119, 255);
