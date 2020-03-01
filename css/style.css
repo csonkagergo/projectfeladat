@@ -4,23 +4,16 @@ body{
     font-size: 100%;
     color: #f0c9b1;
 }
-header{
-    background: url('../images/header4.jpg')  #0026ff;
-    max-width: 100%;
-    background-color: blue;
-    
-    color: rgb(0, 119, 255);
-    text-shadow: 2px 2px 2px black;
-    text-align: center;
+
     
 
-}
+
 
 nav{
     padding: 10px 0;
     margin: 20px 0;
     color: rgb(0, 0, 0);
-    box-shadow:0px 0px 5px  #000000a1;
+    box-shadow:0px 0px 5px  black;
 }
 nav a{
     color: rgb(15, 18, 219);
