@@ -5,8 +5,8 @@ body{
     color: #f0c9b1;
 }
 header div{
-    background: url('../images/header4.jpg') center #0026ff;
-    
+    background: url('../images/header4.jpg')  #0026ff;
+    image-resolution: auto;
     background-color: blue;
     
     color: rgb(0, 119, 255);
