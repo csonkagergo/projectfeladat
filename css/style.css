@@ -6,6 +6,7 @@ body{
 }
 header div{
     background: url('../images/header2.png')  #0026ff;
+    border-image-width: auto;
     
     
     color: rgb(0, 119, 255);
