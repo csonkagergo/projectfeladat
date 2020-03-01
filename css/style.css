@@ -5,17 +5,14 @@ body{
     color: #f0c9b1;
 
 }
-header img{
-    margin: 5px auto;
-    padding: 5px;
-    background: rgb(0, 89, 255);
+header{
+    background-image: url('...images/header2.png');
     text-align: center;
-    image-resolution: 800px 400px;
 }
 header h1{
     color: rgb(0, 119, 255);
     text-shadow: 2px 2px 2px black;
-    
+    text-align: center;
     
 
 }
