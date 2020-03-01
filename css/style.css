@@ -6,7 +6,7 @@ body{
 
 }
 header{
-    background: url('../images/header2.png.png') #0026ff ;
+    background-image: url('../images/header2.png.png') #0026ff ;
     font-family: arial;
     font-size: 100%;
     color: #f0c9b1;
