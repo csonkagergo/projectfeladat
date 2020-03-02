@@ -4,10 +4,24 @@ body{
     font-size: 100%;
     color: #f0c9b1;
     
-
-
+}
+figure{
+    padding: 10px;
+    background:  #00e9fa83 ;
+    margin: 0 0 2px 0;
 
 }
+figure img{
+    max-width: 100%;
+}
+figure figcaption{
+    font-style: italic;
+    font-size: 80%;
+    margin: 6px 0 0 0;
+}
+
+
+
 nav{
     color: black;
 }
