@@ -12,12 +12,7 @@ nav{
     margin: 20px 0;
     color: rgb(0, 0, 0);
     box-shadow:0px 0px 5px  #000000a1;
-}
-nav a{
-    color: rgb(15, 18, 219);
-    margin: 0 10px;
-    text-decoration: none;
-    font-family: "trebuchet MS";
+
 }
 footer{
     
