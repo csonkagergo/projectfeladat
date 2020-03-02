@@ -37,6 +37,7 @@ footer{
 p{
     color: rgb(0, 119, 255);
     text-shadow: 2px 2px 2px black;
+    text-align: center;
 }
 h3{
     color: rgb(0, 119, 255);
@@ -53,4 +54,5 @@ h5{
 h1{
     color: rgba(22, 133, 223, 0.897);
     text-shadow: 2px 2px 2px black;
+    text-align: center;
 }
