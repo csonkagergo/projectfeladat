@@ -35,10 +35,18 @@ footer{
 
 }
 p{
-    color: rgba(203, 223, 22, 0.897);
+    color: rgb(0, 119, 255);
     text-shadow: 1px 1px 1px black;
 }
 h3{
     color: rgb(0, 119, 255);
+    text-shadow: 2px 2px 2px black;
+}
+h2{
+    color: rgba(22, 133, 223, 0.897);
+    text-shadow: 2px 2px 2px black;
+}
+h5{
+    color: rgba(22, 133, 223, 0.897);
     text-shadow: 2px 2px 2px black;
 }
