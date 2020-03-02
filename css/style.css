@@ -3,17 +3,15 @@ body{
     font-family: arial;
     font-size: 100%;
     color: #f0c9b1;
-}
-
     
 
-
+}
 
 nav{
     padding: 10px 0;
     margin: 20px 0;
     color: rgb(0, 0, 0);
-    box-shadow:0px 0px 5px  black;
+    box-shadow:0px 0px 5px  #000000a1;
 }
 nav a{
     color: rgb(15, 18, 219);
