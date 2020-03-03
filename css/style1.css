@@ -7,7 +7,7 @@ body{
 }
 figure{
     padding: 10px;
-    background:  #001affc4 ;
+    background:  #0117dfc2 ;
     margin: 0 0 2px 0;
     color: black;
 }
@@ -31,28 +31,28 @@ footer{
 
 }
 p{
-    color: rgb(25, 0, 255);
+    color: rgb(0, 119, 255);
     text-shadow: 2px 2px 2px black;
     font-family: arial;
     font-size: 100%;
     text-align: center;
 }
 h3{
-    color: rgb(25, 0, 255);
+    color: rgb(0, 119, 255);
     text-shadow: 2px 2px 2px black;
 }
 h2{
-    color: rgb(25, 0, 255);
+    color: rgb(0, 119, 255);
     text-shadow: 2px 2px 2px black;
     text-align: center
 }
 h5{
-    color: rgb(25, 0, 255);
+    color: rgb(0, 119, 255);
     text-shadow: 2px 2px 2px black;
     text-align: center;
 }
 h1{
-    color: rgb(25, 0, 255);
+    color: rgb(0, 119, 255);
     text-shadow: 2px 2px 2px black;
     text-align: center;
 }
