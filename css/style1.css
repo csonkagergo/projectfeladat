@@ -31,29 +31,29 @@ footer{
 
 }
 p{
-    color: rgb(0, 119, 255);
+    color: rgb(0, 183, 255);
     text-shadow: 2px 2px 2px black;
     font-family: arial;
     font-size: 150%;
     text-align: center;
 }
 h3{
-    color: rgb(0, 119, 255);
+    color: rgb(0, 183, 255);
     text-shadow: 5px 5px 5px black;
     font-family: 150%;
 }
 h2{
-    color: rgb(0, 119, 255);
+    color: rgb(0, 183, 255);
     text-shadow: 3px 3px 3px black;
     text-align: center
 }
 h5{
-    color: rgb(0, 119, 255);
+    color: rgb(0, 183, 255);
     text-shadow: 3px 3px 3px black;
     text-align: center;
 }
 h1{
-    color: rgb(0, 119, 255);
+    color: rgb(0, 183, 255);
     text-shadow: 5px 5px 5px black;
     text-align: center;
 }
