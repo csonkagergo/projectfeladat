@@ -31,26 +31,26 @@ footer{
 
 }
 p{
-    color: rgb(0, 119, 255);
+    color: rgb(25, 0, 255);
     text-shadow: 2px 2px 2px black;
     font-family: arial;
     font-size: 100%;
 }
 h3{
-    color: rgb(0, 119, 255);
+    color: rgb(25, 0, 255);
     text-shadow: 2px 2px 2px black;
 }
 h2{
-    color: rgba(22, 133, 223, 0.897);
+    color: rgb(25, 0, 255);
     text-shadow: 2px 2px 2px black;
     text-align: center;
 }
 h5{
-    color: rgba(22, 133, 223, 0.897);
+    color: rgb(25, 0, 255);
     text-shadow: 2px 2px 2px black;
 }
 h1{
-    color: rgba(22, 133, 223, 0.897);
+    color: rgb(25, 0, 255);
     text-shadow: 2px 2px 2px black;
     text-align: center;
 }
