@@ -7,9 +7,9 @@ body{
 }
 figure{
     padding: 10px;
-    background:  #ffffff ;
+    background:  #001affc4 ;
     margin: 0 0 2px 0;
-
+    color: black;
 }
 figure img{
     max-width: 100%;
