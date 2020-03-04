@@ -3,28 +3,29 @@
 <head>
   <title>Bootstrap 4 Website Example</title>
   <meta charset="utf-8">
+  <link rel="stylesheet" href="css/style1.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
   <style>
-     body {background-color: rgb(109, 221, 81);}
+     body {background-color: rgb(81, 177, 221);}
   .fakeimg {
     height: 200px;
-    background :rgb(170, 170, 170); 
+    background: #aaa;
   }
-  </style> 
+  </style>
 </head>
 <body>
 
 
-<div class="jumbotron text-center" style="margin-bottom:0">
-  <h1>Én első bootstrap 4 oldalam</h1>
-  <p>Ez egy újraméretezhető reszponzív oldal.</p> 
-</div>
 
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <h1>Én első bootstrap 4 oldalam</h1>
+  <h2>Ez egy újraméretezhető reszponzív oldal.</h2> 
+
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-blue">
   <a class="navbar-brand" href="index.html">Menü</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
@@ -48,44 +49,40 @@
   <div class="row">
     <div class="col-sm-4">
       
-      <h5>kép</h5>
-      <div class="col" ><img src="images/mprofile.jpg" ></div>
-      <p>Ez egy hobbi a sok közül.</p>
-      <h3>kapcsolatos linkek</h3>
-     
+      <h3>Az iskola címere</h3>
+      <div class="col" ><img src="images/iprofile.jpg" ></div>
+      
+      <h3>Iskolával kapcsolatos linkek</h3>
       <ul class="nav nav-pills flex-column">
         <li class="nav-item">
-          <a class="nav-link active" href="#">Active</a>
+          <a class="nav-link " href="http://szondi-bgy.hu/kapcsolat">Kapcsolat </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
+          <a class="nav-link" href="http://szondi-bgy.hu/iskolankrol">Iskolárol</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
+          <a class="nav-link" href="http://szondi-bgy.hu/kepzeseink">Képzések</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link disabled" href="#">Disabled</a>
+          <a class="nav-link " href="http://szondi-bgy.hu/">iskola főoldala</a>
         </li>
       </ul>
       <hr class="d-sm-none">
     </div>
     <div class="col-sm-8">
-      <h2>TITLE HEADING</h2>
-      <h5>Title description, Dec 7, 2017</h5>
+      <h2>A vasútmodellezés </h2>
       <figure>
         <img src="images/modell.jpg" alt="modell"/>
         <figcaption>
-         Ez az én limitált szériés modellem minek az ára szinte anyi amennyiért megítéli gazdája. Összesen kb 10db van belőle.
-        </figcaption>
-    </figure>
-      <h2>háború elötti Balassagyarmati állómás makettje</h2>
-      <figure>
-        <img src="images/bgyall.jpg" alt="makett"/>
-        <figcaption>
-         Ez a makett a háború elötti időkre emlékeztet hiszen a rombolások elött minden más volt.a rombolást az állomás se úszta meg, bomba találat érte. A háború után egy szintesre vissza építették.
+          
         </figcaption>
     </figure>
       
+      <h2>A háború elötti Balassagyarmat állomás</h2>
+      
+      <img src="images/bgyall.jpg" alt="makett"/>
+      <p>Some text..</p>
+      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
     </div>
   </div>
 </div>
