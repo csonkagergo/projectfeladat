@@ -41,7 +41,7 @@ p{
     font-size: 100%;
 }
 h3{
-    color: rgb(0, 119, 255);
+    color: rgba(255, 0, 0, 0.753);
     text-shadow: 2px 2px 2px black;
 }
 h2{
@@ -54,7 +54,7 @@ h5{
     text-shadow: 2px 2px 2px black;
 }
 h1{
-    color: rgba(22, 133, 223, 0.897);
+    color: rgba(255, 0, 0, 0.753);
     text-shadow: 2px 2px 2px black;
     text-align: center;
 }
