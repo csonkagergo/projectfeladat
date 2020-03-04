@@ -20,7 +20,7 @@ figure figcaption{
     font-style: italic;
     font-size:150%;
     margin: 6px 0 0 0;
-    color: rgba(22, 133, 223, 0.897);
+    color: rgb(255, 166, 0);
     text-shadow: 5px 5px 5px  black;
 }
 
@@ -59,6 +59,6 @@ h1{
     text-align: center;
 }
 nav{
-    background-color: orange;
+    background-color: rgb(255, 0, 0);
     color: black;
 }
