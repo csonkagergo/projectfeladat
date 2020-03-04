@@ -1,5 +1,7 @@
+
+
 body{
-    background: url('../images/hatter2.jpg') #0026ff ;
+    background: url('../images/wallpaper.jpg') #0026ff ;
     font-family: arial;
     font-size: 100%;
     color: #f0c9b1;
@@ -7,7 +9,7 @@ body{
 }
 figure{
     padding: 10px;
-    background:  #001affc4 ;
+    background:  #55576849 ;
     margin: 0 0 2px 0;
     color: black;
 }
@@ -16,8 +18,10 @@ figure img{
 }
 figure figcaption{
     font-style: italic;
-    font-size: 80%;
+    font-size:150%;
     margin: 6px 0 0 0;
+    color: rgb(255, 166, 0);
+    text-shadow: 5px 5px 5px  black;
 }
 
 
@@ -31,17 +35,17 @@ footer{
 
 }
 p{
-    color: rgb(0, 119, 255);
+    color:  rgba(255, 0, 0, 0.767);
     text-shadow: 2px 2px 2px black;
     font-family: arial;
     font-size: 100%;
 }
 h3{
-    color: rgb(0, 119, 255);
+    color: rgba(255, 0, 0, 0.753);
     text-shadow: 2px 2px 2px black;
 }
 h2{
-    color: rgba(22, 133, 223, 0.897);
+    color: rgba(255, 0, 0, 0.753);
     text-shadow: 2px 2px 2px black;
     text-align: center;
 }
@@ -50,7 +54,11 @@ h5{
     text-shadow: 2px 2px 2px black;
 }
 h1{
-    color: rgba(22, 133, 223, 0.897);
+    color: rgba(255, 0, 0, 0.753);
     text-shadow: 2px 2px 2px black;
     text-align: center;
+}
+nav{
+    background-color: rgba(255, 0, 0, 0.486);
+    
 }
