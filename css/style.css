@@ -54,7 +54,7 @@ h5{
     text-shadow: 2px 2px 2px black;
 }
 h1{
-    background-color: rgba(255, 0, 0, 0.486);
+    color: rgba(255, 0, 0, 0.486);
     text-shadow: 2px 2px 2px black;
     text-align: center;
 }
@@ -63,5 +63,5 @@ nav{
     color: black;
 }
 a.href{
-    background-color: rgba(255, 0, 0, 0.486);
+    color: rgba(255, 0, 0, 0.486);
 }
