@@ -35,7 +35,7 @@ footer{
 
 }
 p{
-    color:  rgba(255, 0, 0, 0.486);
+    color:  rgba(255, 0, 0, 0.767);
     text-shadow: 2px 2px 2px black;
     font-family: arial;
     font-size: 100%;
@@ -45,7 +45,7 @@ h3{
     text-shadow: 2px 2px 2px black;
 }
 h2{
-    color: rgba(255, 0, 0, 0.486));
+    color: rgba(255, 0, 0, 0.753);
     text-shadow: 2px 2px 2px black;
     text-align: center;
 }
