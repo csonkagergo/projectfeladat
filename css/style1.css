@@ -14,7 +14,7 @@ body{
 }
 figure{
     padding: 10px;
-    background:  #0117dfc2 ;
+    background:  #37394bc2 ;
     margin: 0 0 2px 0;
     color: black;
 }
@@ -25,6 +25,7 @@ figure figcaption{
     font-style: italic;
     font-size: 80%;
     margin: 6px 0 0 0;
+    color:blue
 }
 
 
