@@ -1,5 +1,8 @@
-
-
+*{
+    padding: 0;
+    margin: 0;
+    border:0;
+}
 body{
     background: url('../images/rail2.jpg') #0026ff ;
     font-family: arial;
