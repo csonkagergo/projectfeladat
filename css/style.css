@@ -19,6 +19,7 @@ figure{
 }
 figure img{
     max-width: 100%;
+    min-width: 100%;
 }
 figure figcaption{
     font-style: italic;
