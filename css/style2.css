@@ -39,7 +39,7 @@ footer{
 }
 p{
     color:  rgba(255, 0, 0, 0.767);
-    text-shadow: 2px 2px 2px black;
+    text-shadow: 1px 1px 1px black;
     font-family: arial;
     font-size: 100%;
 }
