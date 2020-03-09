@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    border:0;
+}
+
+body{
+    background: url('../images/wallpaper.jpg') #0026ff ;
+    font-family: arial;
+    font-size: 100%;
+    color: #f0c9b1;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+figure{
+    padding: 10px;
+    background:  #ff000085 ;
+    margin: 0 0 2px 0;
+    color: black;
+}
+figure img{
+    max-width: 100%;
+    min-width: 100%;
+}
+figure figcaption{
+    font-style: italic;
+    font-size:150%;
+    margin: 6px 0 0 0;
+    color:white;
+    text-shadow: 5px 5px 5px  black;
+}
+
+
+
+footer{
+    
+    margin: 5px auto;
+    padding: 5px;
+    background: rgb(0, 0, 0);
+    text-align: center;
+
+}
+p{
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    font-family: arial;
+    font-size: 150%;
+}
+h3{
+    color: rgba(255, 0, 0, 0.753);
+    text-shadow: 2px 2px 2px black;
+}
+h2{
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    text-align: center;
+}
+h5{
+    color: rgba(22, 133, 223, 0.897);
+    text-shadow: 2px 2px 2px black;
+}
+h1{
+    color: rgba(255, 0, 0, 0.753);
+    text-shadow: 2px 2px 2px black;
+    text-align: center;
+}
+nav{
+    background-color: rgba(255, 0, 0, 0.486);
+    
+}
+ul.li a{color:red
+}
