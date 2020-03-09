@@ -45,6 +45,7 @@ p{
     text-shadow: 2px 2px 2px black;
     font-family: arial;
     font-size: 150%;
+    text-align: center;
 }
 h3{
     color: rgba(255, 0, 0, 0.753);
