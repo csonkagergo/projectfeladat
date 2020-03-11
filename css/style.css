@@ -71,5 +71,8 @@ ul.li a{color:red
 nav{
     background-color: red;
     color: black;
-    
+}
+nav.button{
+    background-color: black;
+
 }
