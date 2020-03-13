@@ -68,11 +68,12 @@ h1{
 }
 ul.li a{color:red
 }
-nav{
-    background-color: red;
-    color: black;
+    nav{
+        background-color: rgba(255, 0, 0, 0.486);
+        
+    
 }
 nav.button{
-    background-color: black;
+    color: black;
     
 }
